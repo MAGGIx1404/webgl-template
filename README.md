@@ -15,3 +15,5 @@ npm start
 
 
 template preview:
+
+![Template preview gif](./1.gif)
